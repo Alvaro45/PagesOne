@@ -153,7 +153,8 @@ body {
 .stitch-heart { width: 100px; animation: flotar-corazon 3s ease-in-out infinite; }
 @keyframes flotar-corazon { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
 
-.message-text { font-size: 14px; line-height: 1.5; margin: 15px 0; }
+.message-text { font-size: 16px; line-height: 1.5; margin: 15px 0; }
+.dialecto { font-size: 15px;}
 .button-group { display: flex; flex-direction: row; gap: 15px; width: 100%; justify-content: center; margin-top: 10px; }
 .yes-button, .no-button { padding: 10px 20px; border-radius: 25px; font-weight: bold; text-decoration: none; border: none; cursor: pointer; }
 .yes-button { background-color: #0F7F41; color: white; }
